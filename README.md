@@ -26,7 +26,7 @@ Implement a program that prompts the user to input an integer, and subsequently 
 Depending on the number of course
 
 > **Hint** Nested if statement can be used here.
-To test an integer for parity, use the modulus operator $\%$, which gives the remainder in division. That is $7\%3 = 1$ because the remainder is $1$,  $23\%3=2$ because the remainder $2$. In this way $x\%2==0$ if $x$ is even, and $x\%2!= 0$ if $x$ is odd.
+To test an integer for parity, use the modulus operator $\bmod$ (`%`), which gives the remainder in division. That is $7 \bmod 3 = 1$ because the remainder is $1$,  $23 \bmod 3=2$ because the remainder $2$. In this way $x\bmod2==0$ if $x$ is even, and $x\bmod2 != 0$ if $x$ is odd.
 
 ## Exercise 0x02
 Implement a program that asks the user to input current (milliAmpere) and resistance (Ohm). 
