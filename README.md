@@ -26,7 +26,7 @@ Implement a program that prompts the user to input an integer, and subsequently 
 Depending on the number of course
 
 > **Hint** Nested if statement can be used here.
-To test an integer for parity, use the modulus operator $\bmod$ (`%`), which gives the remainder in division. That is $7 \bmod 3 = 1$ because the remainder is $1$,  $23 \bmod 3=2$ because the remainder $2$. In this way $x\bmod2==0$ if $x$ is even, and $x\bmod2 != 0$ if $x$ is odd.
+To test an integer for parity, use the modulus operator $\bmod$ (`%`), which gives the remainder in division. That is $7 \bmod 3 = 1$ because the remainder is $1$,  $23 \bmod 3=2$ because the remainder $2$. In this way $x \bmod 2 == 0$ if $x$ is even, and $x \bmod 2 \neq 0$ if $x$ is odd.
 
 ## Exercise 0x02
 Implement a program that asks the user to input current (milliAmpere) and resistance (Ohm). 
@@ -34,7 +34,7 @@ Implement a program that asks the user to input current (milliAmpere) and resist
 Assume that the resistor is connected to a battery. Write the voltage over the resistor in Volts and the dissipated effect in Watts to the output.
 
 ## Exercise 0x03
-Implement a program where the user inputs two 3d vectors (x1,x2,x3) (y1,y2,y3)
+Implement a program where the user inputs two 3d vectors $(x_1,x_2,x_3)$ $(y_1,y_2,y_3)$
 And the result an output to the user of the distance between the two vectors
 
 ## Exercise 0x04
