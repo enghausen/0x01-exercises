@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(void) {
-  cout << "Exercise 4" << endl;
+  cout << "exercise_4.cpp" << endl;
   return 0;
 }
