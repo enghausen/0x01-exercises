@@ -1,22 +1,21 @@
-# Lecture 0x01 Exercises
-Code for OPRG in fall 2024
+# Lesson 0x01 Exercises
 
 ## Exercise 0x00
 Implement a program taking two integers as input
 
 And that writes to output:
-if
+_if_
 `The first is greater than the second` (if that is the case!)
-else if
+_else if_
 `The second is greater than the first` (if that is the case!)
-else
+_else_
 `The numbers are equal`
 
 The program should additionally write the sum and the product of the numbers to output
 
 ## Exercise 0x01
 
-Implement a program that prompts the user to input an integer, and subsequently determines the numbers sign and parity(even or odd). The program should present the following output:
+Implement a program that prompts the user to input an integer, and subsequently determines the numbers sign and parity (even or odd). The program should present the following output:
  - `The number is positive and even.`
  - `The number is positive and odd.`
  - `The number is negative and even.`
