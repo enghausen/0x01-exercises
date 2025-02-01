@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main(void) {
+int main() {
   cout << "exercise_4.cpp" << endl;
   return 0;
 }
