@@ -7,7 +7,6 @@ The number is zero.
 Depending on the number of course
 Hint Nested if statement can be used here. To test an integer for parity, use the modulus operator mod (%), which gives the remainder in division. That is 7 mod 3 = 1 because the remainder is 1 , 23 mod 3 = 2 because the remainder 2 . In this way x mod 2 == 0 if x is even, and x mod 2 ≠ 0 if x is odd. */
 
-
 #include <iostream>
 
 using namespace std;
